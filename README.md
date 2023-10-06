@@ -4,7 +4,7 @@ go-color is a simple color library for Go that allows you to print colored text 
 # Installation
 
 ```bash
-go install github.com/ermanimer/go-color
+go install github.com/ermanimer/go-color@latest
 ```
 
 # Usage
